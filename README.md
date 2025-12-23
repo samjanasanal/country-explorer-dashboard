@@ -46,7 +46,7 @@ A modern, responsive React application for exploring country data, weather infor
 - **Axios** - HTTP client
 - **Context API** - State management
 - **Vite** - Build tool and dev server
-- **CSS3** - Styling with CSS variables for theming
+- **Tailwind css** - Styling with tailwind CSS v4
 - **JavaScript ES6+** - Modern JavaScript
 - **Icons** - Lucide react icons
 
